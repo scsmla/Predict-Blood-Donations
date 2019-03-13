@@ -1,0 +1,2 @@
+train.csv https://s3.amazonaws.com:443/drivendata/data/2/public/9db113a1-cdbe-4b1c-98c2-11590f124dd8.csv
+test.csv https://s3.amazonaws.com:443/drivendata/data/2/public/5c9fa979-5a84-45d6-93b9-543d1a0efc41.csv
